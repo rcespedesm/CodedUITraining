@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\source\repos\CodedUITrainingProjectA\CodedUITrainingProjectA\bin\Debug\CodedUITrainingProjectA.dll
+C:\Users\Rodrigo\source\repos\CodedUITrainingProjectA\CodedUITrainingProjectA\bin\Debug\CodedUITrainingProjectA.pdb
+C:\Users\Rodrigo\source\repos\CodedUITrainingProjectA\CodedUITrainingProjectA\obj\Debug\CodedUITrainingProjectA.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\CodedUITrainingProjectA\CodedUITrainingProjectA\obj\Debug\CodedUITrainingProjectA.dll
+C:\Users\Rodrigo\source\repos\CodedUITrainingProjectA\CodedUITrainingProjectA\obj\Debug\CodedUITrainingProjectA.pdb
+C:\Users\Rodrigo\source\repos\CodedUITrainingProjectA\CodedUITrainingProjectA\obj\Debug\CodedUITrainingProjectA.csprojAssemblyReference.cache
